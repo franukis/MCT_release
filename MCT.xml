@@ -2,9 +2,10 @@
 <item>
     <version>1.0.7</version>
     <url>https://github.com/franukis/MCT_release/releases/download/test/SetupMCT.zip</url>
-    <changelog>https://franciscobenito.es/changelog/MCT/changelog100.html</changelog>
+    <changelog>https://raw.githubusercontent.com/franukis/MCT_release/refs/heads/main/changelog.html</changelog>
     <mandatory>false</mandatory>
 
 </item>
+
 
 
