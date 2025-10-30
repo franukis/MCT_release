@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.0.6</version>
+    <url>https://github.com/franukis/MCT_release/releases/download/test/SetupMCT.zip</url>
+    <changelog>https://github.com/franukis/MCT_release/blob/main/changelog.html</changelog>
+    <mandatory>false</mandatory>
+</item>
