@@ -1,11 +1,12 @@
 up.msi<?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.7</version>
+    <version>1.0.8</version>
     <url>https://github.com/franukis/MCT_release/releases/download/v1.0.8/setup.msi</url>
     <changelog>https://raw.githack.com/franukis/MCT_release/refs/heads/main/changelog.html</changelog>
     <mandatory>false</mandatory>
 
 </item>
+
 
 
 
