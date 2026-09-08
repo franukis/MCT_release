@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.2.12</version>
-    <url>https://github.com/franukis/MCT_release/releases/download/v1.2.12/setup.msi</url>
+    <version>1.2.13</version>
+    <url>https://github.com/franukis/MCT_release/releases/download/v1.2.13/setup.msi</url>
     <changelog>https://franukis.github.io/MCT_release/changelog.html</changelog>
     <mandatory>false</mandatory>
 </item>
